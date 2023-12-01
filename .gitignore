@@ -10,8 +10,8 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
-Third Party Assets/
-StreamingAssets/
+Assets/Third Party Assets/
+Assets/StreamingAssets/
 
 
 # MemoryCaptures can get excessive in size.
@@ -93,6 +93,4 @@ crashlytics-build.properties
 # If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
 # Log files can be ignored.
 fmod_editor.log
-
-Grim-Glass/Assets/Plugins/FMOD/Cache/Editor/FMODStudioCache.asset
 

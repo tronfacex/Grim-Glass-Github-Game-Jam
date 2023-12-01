@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db3e1ce4038af294d897273d4c3364dc, type: 3}
+  m_Name: ChargeAttack
+  m_EditorClassIdentifier: 
+  <AnimationString>k__BackingField: EnemyAttackBlendTree1
+  <TransitionDuration>k__BackingField: 0.1
+  <ComboStateIndex>k__BackingField: -1
+  <ForceTime>k__BackingField: 0.33
+  <Force>k__BackingField: 25
+  <AttackDamage>k__BackingField: 1
+  <Knockback>k__BackingField: 40
+  <LocomotionCooldown>k__BackingField: 1.5
+  <AttackCooldown>k__BackingField: 3.25
+  <RangedAttackPrefab>k__BackingField: {fileID: 0}
+  <TrackTarget>k__BackingField: 1
+  <AttackSound>k__BackingField: 1

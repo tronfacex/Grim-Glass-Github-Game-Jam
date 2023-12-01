@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c076d005963ead248b8266d22eee3676, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  CurrentLevelIndex: 0
+  CurrentLevelCheckpointIndex: 0
+  CurrentLevelCheckpointList: []
+  Level3CheckpointList: []
+  Level2CheckpointList: []
+  Level1CheckpointList: []
+  LevelCheckpointListsLoaded: 1
+  currentMusicArea: 0
+  PlayerHealth: 5
+  CollectablesCount: 0
+  AllCollectablesInSceneCount: 131
+  HasMetBobby: 0
+  InGameOver: 0
+  CurrentGameState: Game Pause State
+  CurrentGameStateHash: 1343313923
+  CurrentTimeScale: 1
+  ControllerType: Xbox
+  NumberOfBossesDefeated: 0
+  MilkBottle1StateMachine: {fileID: 0}
+  MilkBottle2StateMachine: {fileID: 0}
+  MilkBossMaxHealth: 200
